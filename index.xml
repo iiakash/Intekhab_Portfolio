@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects Portfolio on Intekhab Islam</title>
+    <link>https://iiakash.github.io/Intekhab_Portfolio/</link>
+    <description>Recent content in Projects Portfolio on Intekhab Islam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Nov 2020 11:15:58 -0400</lastBuildDate><atom:link href="https://iiakash.github.io/Intekhab_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Object Detection using Amazon Web Services(AWS) SageMaker</title>
+      <link>https://iiakash.github.io/Intekhab_Portfolio/post/project-5/</link>
+      <pubDate>Wed, 04 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://iiakash.github.io/Intekhab_Portfolio/post/project-5/</guid>
+      <description>This is an ongoing project for object detection using the Oxford-IIT Pet Dataset. The goal of this project is to train an object detection model using the AWS cloud. Key AWS concepts such as AWS notebook instances, AWS SageMaker and AWS S3 buckets are explored during this project.
+Performed Tasks:
+ Gathered and extracted the data from XML files Extracted the annotations from the XML data Setup AWS SageMaker with Resnet-50 base network Created an S3 bucket to store the data and results Uploaded the data to the S3 bucket Trained the model using AWS SageMaker train instance &amp;lsquo;ml.</description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Fault Detection using Convolutional Clustering</title>
+      <link>https://iiakash.github.io/Intekhab_Portfolio/post/project-4/</link>
+      <pubDate>Fri, 30 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://iiakash.github.io/Intekhab_Portfolio/post/project-4/</guid>
+      <description> Performed exploration and feature engineering on Tennessee Eastman Process data Trained a convolutional autoencoder with K-Means clustering algorithm incorporated with the network criterion Extracted the encoder to train a new model in a semi-supervised manner Developed different algorithms for binary and multi-class classification Tuned the hyperparameters and visualized the results using Tensorboard  </description>
+    </item>
+    
+    <item>
+      <title>Twitter Sentiment Analysis</title>
+      <link>https://iiakash.github.io/Intekhab_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 05 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://iiakash.github.io/Intekhab_Portfolio/post/project-2/</guid>
+      <description>Explored tweets to find out the characteristics and patterns. Explored the positive and negative tweets by using Wordcloud to visualize the most frequent used words Performed data cleaning to remove repeating words and twitter user tags Performed Count Vectorization or Tokenization to convert the text data into numbers Trained a Naive-Bayes Classifier to classify positive and negative tweets      GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>House Price Prediction and Deployment using Flask Server</title>
+      <link>https://iiakash.github.io/Intekhab_Portfolio/post/project-1/</link>
+      <pubDate>Thu, 09 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://iiakash.github.io/Intekhab_Portfolio/post/project-1/</guid>
+      <description>Explored the data to find relationship between different independent variables. Performed feature selection to select the most suitable features. Performed feature engineering by handling missing values, detecting outliers and removing them. Trained a linear regression machine learning model using Scikit-learn. Optimized Linear, Lasso, and Decision Tree Regressors to reach the best model and the suitable Hyperparameter using GridSearchCV Built a client facing API using Flask        GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Anomaly Detection using Convolutional Neural Networks</title>
+      <link>https://iiakash.github.io/Intekhab_Portfolio/post/project-3/</link>
+      <pubDate>Tue, 09 Jun 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://iiakash.github.io/Intekhab_Portfolio/post/project-3/</guid>
+      <description>Performed exploratory data analysis of real world machine sensor data Performed feature selection to identify the KPIs Performed feature engineering of time series data to convert raw data into sequences Developed a novel anomaly detection algorithm to detect anomalies Applied K-Means clustering to the embedded space of a convolutional autoencoder and optimized the network jointly  Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Fault Diagnosis of an Industrial Chemical Process using Prinicipal Component Analysis (PCA) and Kernel PCA</title>
+      <link>https://iiakash.github.io/Intekhab_Portfolio/post/project-6/</link>
+      <pubDate>Fri, 16 Feb 2018 11:25:05 -0400</pubDate>
+      
+      <guid>https://iiakash.github.io/Intekhab_Portfolio/post/project-6/</guid>
+      <description> Collected and pre-processed the Data Performed Principal Component Analysis (PCA) to reduce the number of dimensions in the data Chose the number of principal components to retain using the Percent Variance Test Applied Kernel PCA and retained the principal components Classified the faults in a supervised manner using Support Vector Machine (SVM) Tuned the hyperparameters to select the best using GridSearchCV Applied Recursive Feature Elimination to eliminate the least significant features in the dataset  </description>
+    </item>
+    
+    <item>
+      <title>Control of a Buck Converter</title>
+      <link>https://iiakash.github.io/Intekhab_Portfolio/post/project-7/</link>
+      <pubDate>Tue, 16 May 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://iiakash.github.io/Intekhab_Portfolio/post/project-7/</guid>
+      <description> Modeled a buck converter system in MATALB SIMULINK Simulated the output voltage and current of the buck converter Linearized the system Analyzed the stability, controllability and observability of the system Designed the state controller and found controller gains Designed the state observer  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://iiakash.github.io/Intekhab_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iiakash.github.io/Intekhab_Portfolio/contact/</guid>
+      <description>Email
+GitHub
+Linkedin
+Xing
+Facebook
+Instagram
+Twitter</description>
+    </item>
+    
+  </channel>
+</rss>
